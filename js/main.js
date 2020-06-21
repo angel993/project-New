@@ -1,3 +1,4 @@
+// funcion para requicision de CEP
 function consultaCep(){
     $(".barra-progreso").show();
     var cep = document.getElementById("cep").value;
